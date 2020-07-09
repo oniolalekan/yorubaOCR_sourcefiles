@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{What is Computational Modelling?}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Related Works}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{The Model Adopted: Long Short-Term Memory \(LSTM\) networks}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Methodology}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Corpus Analytics}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Data Collection: Yor\371b\341 Image Dataset}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Steps of generating the Yor\371b\341 image dataset}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Preprocessing stages}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{The Yor\371b\341 OCR LSTM Architecture}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.6}{Unigram language modelling}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.7}{Implementation Environment}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.8}{Performance Metrics}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.9}{Training the model}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Results}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Convergence error rate as training progresses}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Recognition output}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Performance evaluation results}{section.4}% 18
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Scope of Work}{}% 19

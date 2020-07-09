@@ -1,0 +1,121 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{fabunmi2005yoruba}
+F.~A. Fabunmi, A.~S. Salawu, Is yor{\`u}b{\'a} an endangered language?, Nordic
+  Journal of African Studies 14~(3) (2005) 391--408.
+
+\bibitem{isheawy2015optical}
+N.~A.~M. Isheawy, H.~Hasan, Optical character recognition (ocr) system, IOSR
+  Journal of Computer Engineering 17~(2) (2015) 22--26.
+
+\bibitem{trier1996feature}
+{\O}.~D. Trier, A.~K. Jain, T.~Taxt, Feature extraction methods for character
+  recognition-a survey, Pattern recognition 29~(4) (1996) 641--662.
+
+\bibitem{kavallieratou2002skew}
+E.~Kavallieratou, N.~Fakotakis, G.~Kokkinakis, Skew angle estimation for
+  printed and handwritten documents using the wigner--ville distribution, Image
+  and Vision Computing 20~(11) (2002) 813--824.
+
+\bibitem{shah2009ocr}
+P.~Shah, S.~Karamchandani, T.~Nadkar, N.~Gulechha, K.~Koli, K.~Lad, Ocr-based
+  chassis-number recognition using artificial neural networks, in: Vehicular
+  Electronics and Safety (ICVES), 2009 IEEE International Conference on, IEEE,
+  2009, pp. 31--34.
+
+\bibitem{mani1997application}
+N.~Mani, B.~Srinivasan, Application of artificial neural network model for
+  optical character recognition, in: Systems, Man, and Cybernetics, 1997.
+  Computational Cybernetics and Simulation., 1997 IEEE International Conference
+  on, Vol.~3, IEEE, 1997, pp. 2517--2520.
+
+\bibitem{asahiah2017restoring}
+F.~O. Asahiah, O.~A. \d{O}d\d{\'e}j\d{o}b\'i, E.~R. Adagunodo, Restoring
+  tone-marks in standard yor{\`u}b{\'a} electronic text: Improved model,
+  Computer Science 18~(3) (2017) 301--315.
+
+\bibitem{bamgbose2000grammar}
+A.~Bamgbose, \href{https://books.google.com.ng/books?id=q20vW6-CmHAC}{A Grammar
+  of Yor\`{u}b\'{a}}, West African language monograph series, Cambridge
+  University Press, 2000.
+\newline\urlprefix\url{https://books.google.com.ng/books?id=q20vW6-CmHAC}
+
+\bibitem{denning2012closing}
+P.~J. Denning, Closing statement: What have we said about computation?, The
+  Computer Journal 55~(7) (2012) 863--865.
+
+\bibitem{ninan2013theoretical}
+O.~D. Ninan, O.~A. Od{\'e}job{\'i},
+  \href{http://drops.dagstuhl.de/opus/volltexte/2013/4142}{{Theoretical Issues
+  in the Computational Modelling of Yorùb{\'a} Narratives}}, in: M.~A.
+  Finlayson, B.~Fisseni, B.~L{\"o}we, J.~C. Meister (Eds.), 2013 Workshop on
+  Computational Models of Narrative, Vol.~32 of OpenAccess Series in
+  Informatics (OASIcs), Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik,
+  Dagstuhl, Germany, 2013, pp. 153--157.
+\newblock \href {http://dx.doi.org/10.4230/OASIcs.CMN.2013.153}
+  {\path{doi:10.4230/OASIcs.CMN.2013.153}}.
+\newline\urlprefix\url{http://drops.dagstuhl.de/opus/volltexte/2013/4142}
+
+\bibitem{tauschek1935reading}
+G.~Tauschek, Reading machine, uS Patent 2,115,563. Accessed on January 28, 2017
+  from \url{https://patents.google.com/patent/US2115563A/en} (Apr.~26 1938).
+
+\bibitem{oladayo2015yoruba}
+O.~O. Oladayo, Yoruba language and numerals’ offline interpreter using
+  morphological and template matching, Indonesian Journal of Electrical
+  Engineering and Computer Science 13~(1) (2015) 166--173.
+
+\bibitem{ibraheemtowards}
+A.~O. Ibraheem, O.~A. \d{O}d\d{\'e}j\d{o}b\'i, Towards reliable handwritten
+  character recognition amid diacritic chaos., accessed on June 10, 2017 from
+  \url{https://pdfs.semanticscholar.org/238c/2f223f8ee03a1c049aa03887147c6b2d44c9.pdf}
+  (2016).
+
+\bibitem{choudhary2013new}
+A.~Choudhary, R.~Rishi, S.~Ahlawat, A new character segmentation approach for
+  off-line cursive handwritten words, Procedia Computer Science 17 (2013)
+  88--95.
+
+\bibitem{phdthesisAdnan}
+A.~Ul-Hasan, {Generic Text Recognition using Long Short-Term Memory Networks},
+  \textit{Thesis, Technical University of Kaiserslautern, Germany} (2016).
+
+\bibitem{hochreiter1997long}
+S.~Hochreiter, J.~Schmidhuber, Long short-term memory, Neural computation 9~(8)
+  (1997) 1735--1780.
+
+\bibitem{gers2002learning}
+F.~A. Gers, N.~N. Schraudolph, J.~Schmidhuber, Learning precise timing with
+  lstm recurrent networks, Journal of machine learning research 3~(Aug) (2002)
+  115--143.
+
+\bibitem{bai2018empirical}
+S.~Bai, J.~Z. Kolter, V.~Koltun, An empirical evaluation of generic
+  convolutional and recurrent networks for sequence modeling, arXiv preprint
+  arXiv:1803.01271.
+
+\bibitem{senior1994off}
+A.~W. Senior, Off-line cursive handwriting recognition using recurrent neural
+  networks.
+
+\bibitem{colah2015}
+C.~Olah, Undestanding lstm networks, accessed on January 08, 2018 from
+  \url{http://colah.github.io/posts/2015-08-Understanding-LSTMs/} (2015).
+
+\bibitem{breuel2008ocropus}
+T.~M. Breuel, The ocropus open source ocr system, in: Document Recognition and
+  Retrieval XV, Vol. 6815, International Society for Optics and Photonics,
+  2008, p. 68150F.
+
+\bibitem{breuel2013high}
+T.~M. Breuel, A.~Ul-Hasan, M.~A. Al-Azawi, F.~Shafait, High-performance ocr for
+  printed english and fraktur using lstm networks, in: Document Analysis and
+  Recognition (ICDAR), 2013 12th International Conference on, IEEE, 2013, pp.
+  683--687.
+
+\end{thebibliography}
